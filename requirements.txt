@@ -1,3 +1,9 @@
 numpy
 pandas
 matplotlib
+jupyterlab
+seaborn
+scikit-learn
+statsmodels
+tensorflow
+prophet
